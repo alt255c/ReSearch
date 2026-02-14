@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">ReSearch</string>
+    <string name="app_version">v0.0.1 alpha</string>
+    <string name="base_url">https://alt255.tech/ReSearch/</string>
+
+    <!-- Общие строки -->
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="forgot_password">Забыли пароль?</string>
+
+    <!-- Экран аутентификации -->
+    <string name="sign_in">Вход</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="verification">Подтверждение</string>
+    <string name="login_button">Войти</string>
+    <string name="continue_button">Продолжить</string>
+
+    <!-- Сообщения верификации -->
+    <string name="verification_message1">Отправили письмо с кодом подтверждения на указанный адрес электронной почты.</string>
+    <string name="verification_message2">Перейдите по ссылке из письма или введите код подтверждения ниже.</string>
+
+    <!-- Ошибки валидации -->
+    <string name="error_invalid_email">Введите корректный email</string>
+    <string name="error_email_required">Введите почту</string>
+    <string name="error_password_required">Введите пароль</string>
+    <string name="error_password_length">Пароль должен быть больше 6 символов</string>
+    <string name="error_passwords_not_match">Пароли не совпадают</string>
+
+    <!-- Экран домашней страницы -->
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="status">Статус</string>
+    <string name="registration_date">Дата регистрации</string>
+    <string name="active">Активен</string>
+    <string name="today">Сегодня</string>
+    <string name="logout">Выйти</string>
+
+    <!-- Новые строки для квестов -->
+    <string name="quests">Квесты</string>
+    <string name="available_quests">Доступные квесты</string>
+    <string name="my_quests">Мои квесты</string>
+    <string name="accept_quest">Принять квест</string>
+    <string name="quest_accepted">Квест принят</string>
+    <string name="start_quest">Начать квест</string>
+    <string name="continue_quest">Продолжить</string>
+    <string name="view_quest">Просмотреть</string>
+    <string name="quest_completed">Квест завершен</string>
+    <string name="quest_expired">Квест завершен</string>
+    <string name="quest_upcoming">Скоро будет доступен</string>
+    <string name="step">Шаг</string>
+    <string name="submit_answer">Отправить ответ</string>
+    <string name="answer_placeholder">Введите ваш ответ здесь...</string>
+    <string name="correct_answer">Правильно!</string>
+    <string name="wrong_answer">Неверный ответ</string>
+    <string name="final_step">Последний шаг</string>
+    <string name="rewards">Награды</string>
+    <string name="stars_earned">Получено звёзд:</string>
+    <string name="cat_reward">Награда: котик</string>
+    <string name="try_again">Попробовать снова</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error">Ошибка</string>
+    <string name="retry">Повторить</string>
+    <string name="no_quests">Нет доступных квестов</string>
+    <string name="check_later">Загляните позже</string>
+    <string name="quest_type">Тип квеста</string>
+    <string name="district">Район</string>
+    <string name="steps_count">Количество шагов</string>
+    <string name="available_until">Доступен до</string>
+    <string name="any_district">Любой</string>
+</resources>

@@ -1,0 +1,38 @@
+package tech.alt255.research.presentation.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val GradientTop = Color(0xFF5852B7)
+val GradientBottom = Color(0xFF36327D)
+val GradientTopLight = Color(0xFF554ECA)
+val GradientBottomLight = Color(0xFF383388)
+val White = Color(0xFFFFFFFF)
+val Pink = Color(0xFFFF6B6B)
+val ShadowColor = Color(0x80000000)
+val DarkGray = Color(0xFF262626)
+val LightGray = Color(0xFF363535)
+val Gray = Color(0xFF404040)
+val MegaLightGray = Color(0xFF4E4E4E)
+val OtherLightGray = Color(0xFFD4D4D4)
+val Blue = Color(0xFF594AFF)
+val ErrorColor = Color(0xFFFF4444)
+val SuccessColor = Color(0xFF4CAF50)
+val PinkDark = Color(0xFFFF5252)
+val TextHint = Color(0xFFAAAAAA)
+val TextGray = Color(0xFF888888)
+val InfoBlue = Color(0xFF2196F3)
+val StarBlue = Color(0xFFA5B4FC)
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+val QuestGradientStart = Color(0xFF6A11CB)
+val QuestGradientEnd = Color(0xFF2575FC)
+val StepGradientStart = Color(0xFFF7971E)
+val StepGradientEnd = Color(0xFFFFD200)
+val RewardGradientStart = Color(0xFF00B09B)
+val RewardGradientEnd = Color(0xFF96C93D)
